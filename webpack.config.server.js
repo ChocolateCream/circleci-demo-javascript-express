@@ -1,3 +1,4 @@
+// random comment
 var fs = require('fs');
 var path = require('path');
 var ExternalsPlugin = require('webpack-externals-plugin');
